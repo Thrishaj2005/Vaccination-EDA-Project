@@ -126,7 +126,7 @@ The client can use these insights to:
 
 The main project notebook is:
 
-`Vaccination_EDA_Submission.ipynb`
+`Vaccination_EDA_Project.ipynb`
 
 It contains the complete data analysis, visualizations, insights, and business recommendations.
 
